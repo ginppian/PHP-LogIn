@@ -1,7 +1,7 @@
 Comprobar Usuario y Contraseña
 ============
 
-```
+```php
 <?php
 
 $myPass = '1234';
